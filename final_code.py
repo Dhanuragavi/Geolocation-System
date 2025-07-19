@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 18 02:35:56 2023
-
-@author: arpud
-"""
 
 import folium
 from geopy.geocoders import Nominatim
