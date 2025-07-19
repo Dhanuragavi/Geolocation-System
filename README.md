@@ -76,7 +76,7 @@ To enhance real-world applicability, the system can be improved by:
 
 ## 🧠 Conclusion
 
-This project provides a **scalable concept** for finding **nearest neighbors** using geolocation—applicable to services like **Uber**, **nearby hospitals or hotels**, or **any smart city solution** requiring real-time proximity detection. By integrating **spatial indexing**, **map visualization**, and **GUI interaction**, it demonstrates the core logic behind location-aware applications.
+This project provides a **scalable concept** for finding **nearest neighbors** using geolocation applicable to services like **Uber**, **nearby hospitals or hotels**, or **any smart city solution** requiring real-time proximity detection. By integrating **spatial indexing**, **map visualization**, and **GUI interaction**, it demonstrates the core logic behind location-aware applications.
 
  🔍 *Note: This is a conceptual prototype using simulated data and a desktop interface, intended to showcase the foundational design. It can be extended with live GPS, mobile support, and backend integration for real-world deployment.*
 
