@@ -49,7 +49,7 @@ By combining efficient spatial data structures with intuitive user interfaces an
 
 
 
-## ✅ Result
+## ✅ Results
 
 The system efficiently detects and displays the **nearest neighbors** for any selected city. It accurately:
 
@@ -57,13 +57,14 @@ The system efficiently detects and displays the **nearest neighbors** for any se
 * Simulates surrounding points
 * Retrieves the closest locations using QuadTree
 * Renders results on an interactive map
-* Supports periodic data refresh and a reward logic for user engagement
+* Supports periodic data refresh
+* reward logic for user engagement
 
 
 
 ## 🧠 Conclusion
 
-This project provides a **scalable concept** for finding **nearest neighbors** based on geolocation—applicable to **car services like Uber**, **finding nearby hospitals or hotels**, or **any smart city service** that requires real-time proximity detection.
+This project provides a **scalable concept** for finding **nearest neighbors** based on geolocation applicable to **car services like Uber**, **finding nearby hospitals or hotels**, or **any smart city service** that requires real-time proximity detection.
 By combining **spatial algorithms** with **map visualization** and **GUI interaction**, this system showcases how geolocation-aware applications can be built for a wide range of real-world use cases.
 
 
