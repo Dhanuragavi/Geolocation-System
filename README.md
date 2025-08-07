@@ -2,7 +2,7 @@
 
 ## 🎯 Objective
 
-The aim of this project is to build a geolocation-based system capable of identifying the nearest neighbors such as vehicles🚘, hospitals🏥, hotels🏨, or any points of interest in real time.
+The aim of this project is to build a geolocation-based system capable of identifying the nearest neighbors such as vehicles, hospitals, hotels, or any points of interest in real time.
 By combining efficient spatial data structures with intuitive user interfaces and map rendering, the system allows users to find the closest options based on location input, supporting applications in ride-hailing, navigation, emergency services, and urban planning.
 
 ## 🧰 Tools Used
